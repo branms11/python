@@ -7,3 +7,5 @@ elif numero_de_atrasos == 2:
   print('entra ai mas ta no bico do corvo em')
 else:
   print('Pode entrar')
+elif numero_de_atrasos == 2:
+  print('entra ai mas ta no bico do corvo em')
